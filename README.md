@@ -12,7 +12,7 @@ $ git clone https://github.com/DavidBalishyan/xfce4-terminal-tokyonight.git
 *Or, if you have gh cli*
 
 ```bash
-gh repo clone DavidBalishyan/xfce4-terminal-tokyonight
+$ gh repo clone DavidBalishyan/xfce4-terminal-tokyonight
 ```
 
 ### Run the install script
