@@ -14,4 +14,4 @@ done
 
 echo ""
 echo "Done. TokyoNight themes are now available in"
-echo "  Terminal > Preferences > Colors > Presets"
+echo "  Settings manager > Terminal > Preferences > Colors > Presets"
