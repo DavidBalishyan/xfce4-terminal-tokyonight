@@ -1,0 +1,12 @@
+[Scheme]
+Name=TokyoNight-Storm
+ColorCursor=#c0caf5
+ColorCursorForeground=#24283b
+ColorCursorUseDefault=FALSE
+ColorForeground=#c0caf5
+ColorBackground=#24283b
+ColorSelectionBackground=#33467c
+ColorSelection=#c0caf5
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#f7768e
+ColorPalette=#1d202f;#f7768e;#9ece6a;#e0af68;#7aa2f7;#bb9af7;#7dcfff;#a9b1d6;#414868;#f7768e;#9ece6a;#e0af68;#7aa2f7;#bb9af7;#7dcfff;#c0caf5
